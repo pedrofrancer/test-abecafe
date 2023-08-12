@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Meu site brabo")
+st.set_page_config(page_title="site de estoque")
 
 with st.container():
     st.subheader("Seja bem vindo")
