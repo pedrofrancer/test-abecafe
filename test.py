@@ -21,3 +21,4 @@ with st.container():
     dados = carregar_dados()
     dados = dados[-num_dias:]
     st.area_chart(dados, x="Venda", y="Produtos")
+
